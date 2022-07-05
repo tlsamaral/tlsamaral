@@ -8,7 +8,7 @@
 - 🌱 Iniciando os estudos como desenvolvedor Full-Stack
 - 📤 Meta: ser melhor do que fui ontem!
 
-<div align="center" display="flex">
+<div align="center">
   <a href="https://github.com/tlsamaral">
   <img height="180em" width="400px" margin-right="5px"src="https://github-readme-stats.vercel.app/api?username=tlsamaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsamaral&layout=compact&langs_count=7&theme=dark"/>
