@@ -1,12 +1,8 @@
 
 
-### Seja bem vindo ao repisitório Talles Amaral
+### Hello, I am Talles Amaral
 
-
-
-- 👨🏽‍💻 Amante da tecnologia
-- 🌱 Iniciando os estudos como desenvolvedor Full-Stack
-- 📤 Meta: ser melhor do que fui ontem!
+Web developer with a thirst for learning and a solid focus on software development. At the age of 21, I am studying computer engineering while actively improving my programming and problem solving skills. Driven by a desire to create innovative and efficient solutions, I look forward to contributing to impactful projects and further expanding my knowledge in the world of development.
 
 <div align="center">
   <a href="https://github.com/tlsamaral">
