@@ -21,7 +21,7 @@ Web developer with a thirst for learning and a solid focus on software developme
   
 </div>
 <br>
-<div> 
+<div align="center"> 
   
   <a href="https://instagram.com/tlsamaral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:tallesrafael60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
