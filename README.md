@@ -6,7 +6,7 @@ Web developer with a thirst for learning and a solid focus on software developme
 
 <div align="center">
   <a href="https://github.com/tlsamaral">
-  <img margin-right="5px"src="https://github-readme-stats.vercel.app/api?username=tlsamaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img margin-right="15px" src="https://github-readme-stats.vercel.app/api?username=tlsamaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsamaral&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
