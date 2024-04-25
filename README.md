@@ -19,7 +19,7 @@ Web developer with a thirst for learning and a solid focus on software developme
 <h2 >Frameworks-Languages-Tools ⚒</h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vscode,github,figma,tailwind,redux,styledcomponents,git,nodejs,javascript,typescript,express,firebase,mongodb,cs,nextjs,mysql,docker,linux,dotnet,md" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vscode,github,figma,tailwind,redux,styledcomponents,git,nodejs,javascript,typescript,express,firebase,mongodb,cs,nextjs,mysql,docker,linux,dotnet,md,sqlite" />
 </div>
 <br>
 
