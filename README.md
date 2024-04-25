@@ -21,7 +21,9 @@ const myContacts = {
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vscode,visualstudio,github,figma,tailwind,redux,styledcomponents,git,nodejs,javascript,typescript,express,firebase,mongodb,cs,nextjs,mysql,docker,linux,dotnet,md" />
 </div>
-<br>
+
+<h2>Stats ⚡</h2>
+
 <div >
   <table>
     <tbody>
@@ -37,4 +39,5 @@ const myContacts = {
       </tr>
     </tbody>
   </table>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </div>
