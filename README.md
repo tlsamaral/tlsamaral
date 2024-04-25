@@ -9,11 +9,11 @@ Web developer with a thirst for learning and a solid focus on software developme
 <h2>Talk To Me 📞</h2>
 
 ```javascript
-  const myContacts = {
-    linkedIn: 'https://www.linkedin.com/in/talles-amaral-0134b4229/',
-    instagram: '@tlsamaral',
-    mail: 'tallesrafael60@gmail.com',
-  }
+const myContacts = {
+  linkedIn: 'https://www.linkedin.com/in/talles-amaral-0134b4229/',
+  instagram: '@tlsamaral',
+  mail: 'tallesrafael60@gmail.com',
+}
 ```
 
 <h2 >Frameworks-Languages-Tools ⚒</h2>
@@ -28,11 +28,11 @@ Web developer with a thirst for learning and a solid focus on software developme
       <tr>
           <td>
              <a href="https://github.com/tlsamaral">
-               <img height="195" src="https://github-readme-stats.vercel.app/api?username=tlsamaral&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+               <img height="195" src="https://github-readme-stats.vercel.app/api?username=tlsamaral&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
           </td>
           <td>
              <a href="https://github.com/tlsamaral">
-             <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsamaral&layout=compact&langs_count=7&theme=transparent"/>
+             <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsamaral&layout=compact&langs_count=7&theme=blue_navy"/>
           </td>
       </tr>
     </tbody>
