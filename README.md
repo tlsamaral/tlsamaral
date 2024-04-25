@@ -22,4 +22,19 @@ Web developer with a thirst for learning and a solid focus on software developme
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vscode,visualstudio,github,figma,tailwind,redux,styledcomponents,git,nodejs,javascript,typescript,express,firebase,mongodb,cs,nextjs,mysql,docker,linux,dotnet,md" />
 </div>
 <br>
-
+<div >
+  <table>
+    <tbody>
+      <tr>
+          <td>
+             <a href="https://github.com/tlsamaral">
+               <img height="195" src="https://github-readme-stats.vercel.app/api?username=tlsamaral&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+          </td>
+          <td>
+             <a href="https://github.com/tlsamaral">
+             <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsamaral&layout=compact&langs_count=7&theme=transparent"/>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
