@@ -12,7 +12,7 @@ Web developer with a thirst for learning and a solid focus on software developme
 const myContacts = {
   linkedIn: 'https://www.linkedin.com/in/talles-amaral-0134b4229/',
   instagram: '@tlsamaral',
-  mail: 'tallesrafael60@gmail.com',
+  mail: 'worktalles@hotmail.com',
 }
 ```
 
