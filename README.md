@@ -16,7 +16,7 @@ const myContacts = {
 }
 ```
 
-<h2 >Frameworks-Languages-Tools ⚒</h2>
+<h2 >Frameworks - Languages - Tools ⚒</h2>
 <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vscode,visualstudio,github,figma,tailwind,redux,styledcomponents,git,nodejs,javascript,typescript,express,firebase,mongodb,cs,nextjs,mysql,docker,linux,dotnet,md" />
