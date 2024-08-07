@@ -10,7 +10,7 @@ Web developer with a thirst for learning and a solid focus on software developme
 
 ```javascript
 const myContacts = {
-  website: 'tallesamaraal.dev'
+  website: 'tallesamaraal.dev',
   linkedIn: 'https://www.linkedin.com/in/talles-amaral-0134b4229/',
   instagram: '@tlsamaral',
   mail: 'worktalles@hotmail.com',
