@@ -4,7 +4,6 @@
 
 Web developer with a thirst for learning and a solid focus on software development. At the age of 22, I am studying computer engineering while actively improving my programming and problem solving skills. Driven by a desire to create innovative and efficient solutions, I look forward to contributing to impactful projects and further expanding my knowledge in the world of development. 🚀
 
-<br/>
 <h2>Talk To Me 📞</h2>
 
 ```javascript
