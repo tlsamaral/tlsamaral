@@ -7,7 +7,7 @@ Web developer with a thirst for learning and a solid focus on software developme
 <h2>Talk To Me 📞</h2>
 
 ```javascript
-const myContacts = {
+const contacts = {
   website: 'tallesamaral.dev',
   linkedIn: '/in/tallesamaral',
   instagram: '@tlsamaral',
