@@ -1,8 +1,12 @@
 
 
-<h1>Hello, I am Talles Amaral 🌪️</h1>
+<h1>Hello, I am Talles Amaral</h1>
 
-Web developer with a thirst for learning and a solid focus on software development. At the age of 22, I am studying computer engineering while actively improving my programming and problem solving skills. Driven by a desire to create innovative and efficient solutions, I look forward to contributing to impactful projects and further expanding my knowledge in the world of development. 🚀
+I’m a Full Stack Developer passionate about turning ideas into scalable and efficient code.
+Currently working at UNISAL – Centro Universitário Salesiano de São Paulo, I focus on modernizing legacy systems and building user-centered digital experiences.
+
+Skilled in React.js, Next.js, Node.js, TypeScript, and TailwindCSS, I apply Clean Code, SOLID principles, and Domain-Driven Design to deliver high-quality solutions.
+I’m constantly exploring new technologies and improving my craft, driven by curiosity and purpose.
 
 <h2>Talk To Me 📞</h2>
 
@@ -15,7 +19,7 @@ const contacts = {
 }
 ```
 
-<h2 >Frameworks - Languages - Tools ⚒</h2>
+<h2>Skills</h2>
 <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vscode,visualstudio,github,figma,tailwind,redux,styledcomponents,git,nodejs,javascript,typescript,express,firebase,mongodb,cs,nextjs,mysql,docker,linux,dotnet,md" />
