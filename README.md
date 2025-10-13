@@ -8,16 +8,6 @@ Currently working at UNISAL – Centro Universitário Salesiano de São Paulo, I
 Skilled in React.js, Next.js, Node.js, TypeScript, and TailwindCSS, I apply Clean Code, SOLID principles, and Domain-Driven Design to deliver high-quality solutions.
 I’m constantly exploring new technologies and improving my craft, driven by curiosity and purpose.
 
-<h2>Talk To Me 📞</h2>
-
-```javascript
-const contacts = {
-  website: 'tallesamaral.dev',
-  linkedIn: '/in/tallesamaral',
-  instagram: '@tlsamaral',
-  mail: 'worktalles@hotmail.com',
-}
-```
 
 <h2>Skills</h2>
 <br/>
@@ -25,7 +15,7 @@ const contacts = {
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vscode,visualstudio,github,figma,tailwind,redux,styledcomponents,git,nodejs,javascript,typescript,express,firebase,mongodb,cs,nextjs,mysql,docker,linux,dotnet,md" />
 </div>
 
-<h2>Stats ⚡</h2>
+<h2>Stats</h2>
 
 <div >
   <table>
